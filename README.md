@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SafaeOuajih ,future embedded system engineer. 
+- 👋 Hi, I’m @SafaeOuajih ,embedded system engineer. 
 - 👀 I’m interested in Embedded Systems and Linux
 - 📫 How to reach me : * ouajih.safae@gmail.com :)
 
